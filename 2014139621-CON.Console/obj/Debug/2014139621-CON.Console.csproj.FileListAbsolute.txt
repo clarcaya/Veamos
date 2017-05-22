@@ -1,0 +1,6 @@
+D:\Users\sistemas\Documents\Visual Studio 2017\Projects\2014139621-SLN\2014139621-CON.Console\bin\Debug\2014139621-CON.Console.exe.config
+D:\Users\sistemas\Documents\Visual Studio 2017\Projects\2014139621-SLN\2014139621-CON.Console\bin\Debug\2014139621-CON.Console.exe
+D:\Users\sistemas\Documents\Visual Studio 2017\Projects\2014139621-SLN\2014139621-CON.Console\bin\Debug\2014139621-CON.Console.pdb
+D:\Users\sistemas\Documents\Visual Studio 2017\Projects\2014139621-SLN\2014139621-CON.Console\obj\Debug\2014139621-CON.Console.csprojResolveAssemblyReference.cache
+D:\Users\sistemas\Documents\Visual Studio 2017\Projects\2014139621-SLN\2014139621-CON.Console\obj\Debug\2014139621-CON.Console.exe
+D:\Users\sistemas\Documents\Visual Studio 2017\Projects\2014139621-SLN\2014139621-CON.Console\obj\Debug\2014139621-CON.Console.pdb

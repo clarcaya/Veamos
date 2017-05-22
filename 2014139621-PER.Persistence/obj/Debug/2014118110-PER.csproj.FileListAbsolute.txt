@@ -1,0 +1,14 @@
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\bin\Debug\2014118110-PER.dll.config
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\bin\Debug\2014118110-PER.dll
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\bin\Debug\2014118110-PER.pdb
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\bin\Debug\2014118110-ENT.dll
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\bin\Debug\EntityFramework.dll
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\bin\Debug\2014118110-ENT.pdb
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\bin\Debug\EntityFramework.xml
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\obj\Debug\2014118110-PER.csprojResolveAssemblyReference.cache
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\obj\Debug\_2014118110_PER.Migrations.InitialModel.resources
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\obj\Debug\2014118110-PER.csproj.GenerateResource.Cache
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\obj\Debug\2014118110-PER.dll
+D:\Users\sistemas\Desktop\2014118110-SLN\2014118110-PER\obj\Debug\2014118110-PER.pdb
